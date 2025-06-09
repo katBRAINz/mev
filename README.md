@@ -1,7 +1,7 @@
 # me/v: VRM Editor
 
 ブラウザで使えるVRMエディター(予定)。
-
+This doesnt work anymore, please fix it.
 * 最新安定版: https://xanxys.github.io/mev/
 
 ## Using as VRM loader library (not officially supported yet)
